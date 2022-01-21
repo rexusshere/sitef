@@ -1,0 +1,120 @@
+Uri: http://ir.sitekodlari.com/gununsozu1.js
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\gununsozu1.js
+Content Type: application/javascript
+
+Uri: https://cdn.discordapp.com/attachments/692141139159154790/697960410187432016/a_0cb8545370327d78b4aaa04de0745a39.gif
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\attachments\692141139159154790\697960410187432016\a_0cb8545370327d78b4aaa04de0745a39.gif
+Content Type: image/gif
+
+Uri: https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\gh\google\code-prettify@master\loader\run_prettify.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.4.1.slim.min.js
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\jquery-3.4.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://discord-uzayli-bot.glitch.me/
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\index.htm
+Content Type: text/html
+
+Uri: https://discord-uzayli-bot.glitch.me/altyapilar.html
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\altyapilar.html
+Content Type: text/html
+
+Uri: https://media1.tenor.com/images/2cbe1f5d8c29ad21c902fd42f2cf6e84/tenor.gif?itemid=6155719
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\images\2cbe1f5d8c29ad21c902fd42f2cf6e84\tenor.gif
+Content Type: image/gif
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\bootstrap\4.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/all.css
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\discord-uzayli-bot.glitch.me\releases\v5.8.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
